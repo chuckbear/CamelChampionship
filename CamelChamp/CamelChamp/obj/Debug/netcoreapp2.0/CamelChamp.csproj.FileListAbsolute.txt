@@ -1,0 +1,11 @@
+C:\Users\yayangdi\source\repos\CamelChamp\CamelChamp\bin\Debug\netcoreapp2.0\CamelChamp.deps.json
+C:\Users\yayangdi\source\repos\CamelChamp\CamelChamp\bin\Debug\netcoreapp2.0\CamelChamp.runtimeconfig.json
+C:\Users\yayangdi\source\repos\CamelChamp\CamelChamp\bin\Debug\netcoreapp2.0\CamelChamp.runtimeconfig.dev.json
+C:\Users\yayangdi\source\repos\CamelChamp\CamelChamp\bin\Debug\netcoreapp2.0\CamelChamp.dll
+C:\Users\yayangdi\source\repos\CamelChamp\CamelChamp\bin\Debug\netcoreapp2.0\CamelChamp.pdb
+C:\Users\yayangdi\source\repos\CamelChamp\CamelChamp\obj\Debug\netcoreapp2.0\CamelChamp.csprojResolveAssemblyReference.cache
+C:\Users\yayangdi\source\repos\CamelChamp\CamelChamp\obj\Debug\netcoreapp2.0\CamelChamp.csproj.CoreCompileInputs.cache
+C:\Users\yayangdi\source\repos\CamelChamp\CamelChamp\obj\Debug\netcoreapp2.0\CamelChamp.AssemblyInfoInputs.cache
+C:\Users\yayangdi\source\repos\CamelChamp\CamelChamp\obj\Debug\netcoreapp2.0\CamelChamp.AssemblyInfo.cs
+C:\Users\yayangdi\source\repos\CamelChamp\CamelChamp\obj\Debug\netcoreapp2.0\CamelChamp.dll
+C:\Users\yayangdi\source\repos\CamelChamp\CamelChamp\obj\Debug\netcoreapp2.0\CamelChamp.pdb
